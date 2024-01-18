@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="karakter yaratt.exe" version="1.0.0.2" publicKeyToken="538edb1cb30064f1" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="karakter yaratt" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="karakter yaratt.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Bildirim Seçenekleri
+          Windows Kullanıcı Hesabı Denetimi düzeyini değiştirmek istiyorsanız,
+           requestedExecutionLevel düğümünü aşağıdakilerden biriyle değiştirin.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Geriye dönük uyumluluk için Dosya ve Kayıt Defteri Sanallaştırması
+         kullanmak istiyorsanız, requestedExecutionLevel düğümünü silin.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="karakter yaratt.exe" size="256424">
+      <assemblyIdentity name="karakter yaratt" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>LmWUH84RoC49CMf/DrYHbGDwXp4PO9odU8Zg9prolrs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="711952">
+      <assemblyIdentity name="Newtonsoft.Json" version="13.0.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>4eJ697B+7t9c5xqSVfBCKBam/FhJpIPGcU4bRyBE+p0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="karakter yaratt.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\WorkshopImageUpload.png" size="46967">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>qPXmxu6hrlW8KvExjoE/ootm9se+vlMqD/pT+F0YKMA=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=MERLIN\ayaga" issuerKeyHash="b6020ea881892bf1a186ecddf17eb17a3e95cf87" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Iwbqo22EBSrtIF0ekV+Iiex7gtp+geL+etR+VXg4m/8=</DigestValue></Reference></SignedInfo><SignatureValue>wwUFLurwePvIxCQiTWJ2v0+feinQ177LpZlFhooIHORSlM7J1SadvS9hmtsM5dN2DWQue8jGpdnjS6HxFdug7gM1NF/5eFXM00ayiRUNAGXx7NnY+3kUcpUErLNosXXrvvY3S350kfMUuWE1zQU2YftGNQwwtje3ERXnVUUwzjM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>y2B1SesO5HvdqeTBaJF06saSCYAcZcLafJZfAFvBVqbYd2Fvl3AQA0SmZ5TWYA6OO2NUl80xYo9INLSIZ6taABdxZoBNcWj6ceIGAvVBzLnB0ENdIiQYmI1m94hQWVcgjSsYfXy/hHZ1EYuKOH9MTOEw4JFvtTXAUlru4GPhGD0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ff9b3878557ed47afee2817eda827bec89885f911e5d20ed2a05846da3ea0623" Description="" Url=""><as:assemblyIdentity name="karakter yaratt.exe" version="1.0.0.2" publicKeyToken="538edb1cb30064f1" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=MERLIN\ayaga</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>wc7VBXQjb04/AMUibOtQM2iVdg+dpUg75SpOB9g807Q=</DigestValue></Reference></SignedInfo><SignatureValue>xQIvphs93Fq04O7WVAOjQlfuwpv5i0P3B71lBgi/6o2WKanmecVVTSBlwwSurpIrE9aeXwoey4rH7k7Dcs9T5AVdvsSwB8I0Ouikuft99Myi5BXvwjZVLdS0O4Otz1Acej/eHW5V6j4+erWEWEZnUWSqDeVHr+NZRx3SAuk+Rj0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>y2B1SesO5HvdqeTBaJF06saSCYAcZcLafJZfAFvBVqbYd2Fvl3AQA0SmZ5TWYA6OO2NUl80xYo9INLSIZ6taABdxZoBNcWj6ceIGAvVBzLnB0ENdIiQYmI1m94hQWVcgjSsYfXy/hHZ1EYuKOH9MTOEw4JFvtTXAUlru4GPhGD0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQRjVcpYTYpLJCynP1BqyhhzANBgkqhkiG9w0BAQsFADAjMSEwHwYDVQQDHhgATQBFAFIATABJAE4AXABhAHkAYQBnAGEwHhcNMjQwMTE4MTM0MzM1WhcNMjUwMTE3MTk0MzM1WjAjMSEwHwYDVQQDHhgATQBFAFIATABJAE4AXABhAHkAYQBnAGEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMtgdUnrDuR73ankwWiRdOrGkgmAHGXC2nyWXwBbwVam2Hdhb5dwEANEpmeU1mAOjjtjVJfNMWKPSDS0iGerWgAXcWaATXFo+nHiBgL1Qcy5wdBDXSIkGJiNZveIUFlXII0rGH18v4R2dRGLijh/TEzhMOCRb7U1wFJa7uBj4Rg9AgMBAAEwDQYJKoZIhvcNAQELBQADgYEAFOL5PnA66lK1XFvdiJ486V9Sd1+F/5ZQ34YCGzkjMPEgUaAWbpL94YIjSJT3Xtqk/IcXPI0X/fHgVqmRHYomj63SptBQ9BVSGRu7qR3n8IkvHp+25L05MikygzlawqwJHLpN9EPjYvQ4ZbJl3cgCK4xGZLFqlsUnKD5plRVsVGk=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
