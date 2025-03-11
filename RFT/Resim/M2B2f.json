@@ -1,0 +1,2041 @@
+{
+  "Chest": {
+    "Ancient Chest": {
+      "1": [
+        "Ancient Chest_0.jpg"
+      ]
+    },
+    "Brass Case": {
+      "1": [
+        "Brass Case_0.jpg"
+      ]
+    },
+    "Bronze Chest": {
+      "1": [
+        "Bronze Chest_0.jpg"
+      ]
+    },
+    "Diamond Box": {
+      "1": [
+        "Diamond Box_0.jpg"
+      ]
+    },
+    "Divine Chest": {
+      "1": [
+        "Divine Chest_0.jpg"
+      ]
+    },
+    "Dragon Chest": {
+      "1": [
+        "Dragon Chest_0.jpg"
+      ]
+    },
+    "Emerald Case": {
+      "1": [
+        "Emerald Case_0.jpg"
+      ]
+    },
+    "Gate of Space": {
+      "1": [
+        "Gate of Space_0.jpg"
+      ]
+    },
+    "Gods Chest": {
+      "1": [
+        "Gods Chest_0.jpg"
+      ]
+    },
+    "Golden Coffer": {
+      "1": [
+        "Golden Coffer_0.jpg"
+      ]
+    },
+    "Infinity Chest": {
+      "1": [
+        "Infinity Chest_0.jpg"
+      ]
+    },
+    "Iron Chest": {
+      "1": [
+        "Iron Chest_0.jpg"
+      ]
+    },
+    "Legendary Chest": {
+      "1": [
+        "Legendary Chest_0.jpg"
+      ]
+    },
+    "Royal Treasury": {
+      "1": [
+        "Royal Treasury_0.jpg"
+      ]
+    },
+    "Silver Chest": {
+      "1": [
+        "Silver Chest_0.jpg"
+      ]
+    },
+    "Wicker Basket": {
+      "1": [
+        "Wicker Basket_0.jpg"
+      ]
+    },
+    "Wooden Box": {
+      "1": [
+        "Wooden Box_0.jpg"
+      ]
+    }
+  },
+  "Class": {
+    "Battle Mage": {
+      "1": [
+        "Battle Mage_0.png"
+      ]
+    },
+    "Berserker": {
+      "1": [
+        "Berserker_0.png"
+      ]
+    },
+    "Cleric": {
+      "1": [
+        "Cleric_0.png"
+      ]
+    },
+    "Healer": {
+      "1": [
+        "Healer_0.png"
+      ]
+    },
+    "Mage": {
+      "1": [
+        "Mage_0.png"
+      ]
+    },
+    "Warrior": {
+      "1": [
+        "Warrior_0.png"
+      ]
+    }
+  },
+  "Evler": {
+    "coastal_manor": {
+      "1": [
+        "coastal_manor_0.png"
+      ]
+    },
+    "cottage_in_the_mountains": {
+      "1": [
+        "cottage_in_the_mountains_0.png"
+      ]
+    },
+    "country_house": {
+      "1": [
+        "country_house_0.png"
+      ]
+    },
+    "desert_house": {
+      "1": [
+        "desert_house_0.png"
+      ]
+    },
+    "desert_mansion": {
+      "1": [
+        "desert_mansion_0.png"
+      ]
+    },
+    "hilltop_residence": {
+      "1": [
+        "hilltop_residence_0.png"
+      ]
+    },
+    "house": {
+      "1": [
+        "house_0.png"
+      ]
+    },
+    "manor": {
+      "1": [
+        "manor_0.png"
+      ]
+    },
+    "manor_in_the_woods": {
+      "1": [
+        "manor_in_the_woods_0.png"
+      ]
+    },
+    "mansion": {
+      "1": [
+        "mansion_0.png"
+      ]
+    },
+    "mountains": {
+      "1": [
+        "mountains_0.png"
+      ]
+    },
+    "residence": {
+      "1": [
+        "residence_0.png"
+      ]
+    },
+    "residence_by_the_sea": {
+      "1": [
+        "residence_by_the_sea_0.png"
+      ]
+    },
+    "riverside_house": {
+      "1": [
+        "riverside_house_0.png"
+      ]
+    },
+    "sea": {
+      "1": [
+        "sea_0.png"
+      ]
+    },
+    "town_cabin": {
+      "1": [
+        "town_cabin_0.png"
+      ]
+    },
+    "town_house": {
+      "1": [
+        "town_house_0.png"
+      ]
+    },
+    "town_residence": {
+      "1": [
+        "town_residence_0.png"
+      ]
+    },
+    "woods": {
+      "1": [
+        "woods_0.png"
+      ]
+    }
+  },
+  "mob": {
+    "Ape": {
+      "1": [
+        "Ape_0.jpg",
+        "Ape_1.gif",
+        "Ape_2.gif"
+      ],
+      "2": [
+        "Ape_0.jpg",
+        "Ape_1.gif",
+        "Ape_2.gif"
+      ],
+      "3": [
+        "Ape_0.jpg",
+        "Ape_1.gif",
+        "Ape_2.gif"
+      ],
+      "4": [
+        "Ape_0.jpg",
+        "Ape_1.gif",
+        "Ape_2.gif"
+      ]
+    },
+    "ArchDemon": {
+      "1": [
+        "ArchDemon_0.jpg",
+        "ArchDemon_1.gif",
+        "ArchDemon_2.gif"
+      ],
+      "2": [
+        "ArchDemon_0.jpg",
+        "ArchDemon_1.gif",
+        "ArchDemon_2.gif"
+      ],
+      "3": [
+        "ArchDemon_0.jpg",
+        "ArchDemon_1.gif",
+        "ArchDemon_2.gif"
+      ],
+      "4": [
+        "ArchDemon_0.jpg",
+        "ArchDemon_1.gif",
+        "ArchDemon_2.gif"
+      ],
+      "5": [
+        "ArchDemon_0.jpg",
+        "ArchDemon_1.gif",
+        "ArchDemon_2.gif"
+      ]
+    },
+    "armor": {
+      "1": [
+        "armor_0.jpg",
+        "armor_1.gif",
+        "armor_2.gif"
+      ],
+      "2": [
+        "armor_0.jpg",
+        "armor_1.gif",
+        "armor_2.gif"
+      ],
+      "3": [
+        "armor_0.jpg",
+        "armor_1.gif",
+        "armor_2.gif"
+      ]
+    },
+    "Astral Phoenix": {
+      "1": [
+        "Astral Phoenix_0.jpg",
+        "Astral Phoenix_1.gif",
+        "Astral Phoenix_2.gif"
+      ]
+    },
+    "Bear": {
+      "1": [
+        "Bear_0.jpg",
+        "Bear_1.gif",
+        "Bear_2.gif"
+      ],
+      "2": [
+        "Bear_0.jpg",
+        "Bear_1.gif",
+        "Bear_2.gif"
+      ],
+      "3": [
+        "Bear_0.jpg",
+        "Bear_1.gif",
+        "Bear_2.gif"
+      ],
+      "4": [
+        "Bear_0.jpg",
+        "Bear_1.gif",
+        "Bear_2.gif"
+      ],
+      "5": [
+        "Bear_0.jpg",
+        "Bear_1.gif",
+        "Bear_2.gif"
+      ],
+      "6": [
+        "Bear_0.jpg",
+        "Bear_1.gif",
+        "Bear_2.gif"
+      ]
+    },
+    "Behemoth": {
+      "1": [
+        "Behemoth_0.jpg",
+        "Behemoth_1.gif",
+        "Behemoth_2.gif"
+      ]
+    },
+    "Beholder": {
+      "1": [
+        "Beholder_0.jpg",
+        "Beholder_1.gif",
+        "Beholder_2.gif"
+      ],
+      "2": [
+        "Beholder_0.jpg",
+        "Beholder_1.gif",
+        "Beholder_2.gif"
+      ],
+      "3": [
+        "Beholder_0.jpg",
+        "Beholder_1.gif",
+        "Beholder_2.gif"
+      ],
+      "4": [
+        "Beholder_0.jpg",
+        "Beholder_1.gif",
+        "Beholder_2.gif"
+      ],
+      "5": [
+        "Beholder_0.jpg",
+        "Beholder_1.gif",
+        "Beholder_2.gif"
+      ],
+      "6": [
+        "Beholder_0.jpg",
+        "Beholder_1.gif",
+        "Beholder_2.gif"
+      ]
+    },
+    "Berserker": {
+      "1": [
+        "Berserker_0.jpg",
+        "Berserker_1.gif",
+        "Berserker_2.gif"
+      ],
+      "2": [
+        "Berserker_0.jpg",
+        "Berserker_1.gif",
+        "Berserker_2.gif"
+      ],
+      "3": [
+        "Berserker_0.jpg",
+        "Berserker_1.gif",
+        "Berserker_2.gif"
+      ],
+      "4": [
+        "Berserker_0.jpg",
+        "Berserker_1.gif",
+        "Berserker_2.gif"
+      ],
+      "5": [
+        "Berserker_0.jpg",
+        "Berserker_1.gif",
+        "Berserker_2.gif"
+      ],
+      "6": [
+        "Berserker_0.jpg",
+        "Berserker_1.gif",
+        "Berserker_2.gif"
+      ],
+      "7": [
+        "Berserker_0.jpg",
+        "Berserker_1.gif",
+        "Berserker_2.gif"
+      ],
+      "8": [
+        "Berserker_0.jpg",
+        "Berserker_1.gif",
+        "Berserker_2.gif"
+      ]
+    },
+    "Boar": {
+      "1": [
+        "Boar_0.jpg",
+        "Boar_1.gif",
+        "Boar_2.gif"
+      ],
+      "10": [
+        "Boar_0.jpg",
+        "Boar_1.gif",
+        "Boar_2.gif"
+      ],
+      "11": [
+        "Boar_0.jpg",
+        "Boar_1.gif",
+        "Boar_2.gif"
+      ],
+      "12": [
+        "Boar_0.jpg",
+        "Boar_1.gif",
+        "Boar_2.gif"
+      ],
+      "13": [
+        "Boar_0.jpg",
+        "Boar_1.gif",
+        "Boar_2.gif"
+      ],
+      "14": [
+        "Boar_0.jpg",
+        "Boar_1.gif",
+        "Boar_2.gif"
+      ],
+      "2": [
+        "Boar_0.jpg",
+        "Boar_1.gif",
+        "Boar_2.gif"
+      ],
+      "3": [
+        "Boar_0.jpg",
+        "Boar_1.gif",
+        "Boar_2.gif"
+      ],
+      "4": [
+        "Boar_0.jpg",
+        "Boar_1.gif",
+        "Boar_2.gif"
+      ],
+      "5": [
+        "Boar_0.jpg",
+        "Boar_1.gif",
+        "Boar_2.gif"
+      ],
+      "6": [
+        "Boar_0.jpg",
+        "Boar_1.gif",
+        "Boar_2.gif"
+      ],
+      "7": [
+        "Boar_0.jpg",
+        "Boar_1.gif",
+        "Boar_2.gif"
+      ],
+      "8": [
+        "Boar_0.jpg",
+        "Boar_1.gif",
+        "Boar_2.gif"
+      ],
+      "9": [
+        "Boar_0.jpg",
+        "Boar_1.gif",
+        "Boar_2.gif"
+      ]
+    },
+    "Chief": {
+      "1": [
+        "Chief_0.jpg",
+        "Chief_1.gif",
+        "Chief_2.gif"
+      ],
+      "2": [
+        "Chief_0.jpg",
+        "Chief_1.gif",
+        "Chief_2.gif"
+      ],
+      "3": [
+        "Chief_0.jpg",
+        "Chief_1.gif",
+        "Chief_2.gif"
+      ],
+      "4": [
+        "Chief_0.jpg",
+        "Chief_1.gif",
+        "Chief_2.gif"
+      ],
+      "5": [
+        "Chief_0.jpg",
+        "Chief_1.gif",
+        "Chief_2.gif"
+      ]
+    },
+    "DemiLich": {
+      "1": [
+        "DemiLich_0.jpg",
+        "DemiLich_1.gif",
+        "DemiLich_2.gif"
+      ],
+      "2": [
+        "DemiLich_0.jpg",
+        "DemiLich_1.gif",
+        "DemiLich_2.gif"
+      ],
+      "3": [
+        "DemiLich_0.jpg",
+        "DemiLich_1.gif",
+        "DemiLich_2.gif"
+      ],
+      "4": [
+        "DemiLich_0.jpg",
+        "DemiLich_1.gif",
+        "DemiLich_2.gif"
+      ],
+      "5": [
+        "DemiLich_0.jpg",
+        "DemiLich_1.gif",
+        "DemiLich_2.gif"
+      ],
+      "6": [
+        "DemiLich_0.jpg",
+        "DemiLich_1.gif",
+        "DemiLich_2.gif"
+      ]
+    },
+    "Dragon": {
+      "1": [
+        "Dragon_0.jpg",
+        "Dragon_1.gif",
+        "Dragon_2.gif"
+      ],
+      "10": [
+        "Dragon_0.jpg",
+        "Dragon_1.gif",
+        "Dragon_2.gif"
+      ],
+      "11": [
+        "Dragon_0.jpg",
+        "Dragon_1.gif",
+        "Dragon_2.gif"
+      ],
+      "2": [
+        "Dragon_0.jpg",
+        "Dragon_1.gif",
+        "Dragon_2.gif"
+      ],
+      "3": [
+        "Dragon_0.jpg",
+        "Dragon_1.gif",
+        "Dragon_2.gif"
+      ],
+      "4": [
+        "Dragon_0.jpg",
+        "Dragon_1.gif",
+        "Dragon_2.gif"
+      ],
+      "5": [
+        "Dragon_0.jpg",
+        "Dragon_1.gif",
+        "Dragon_2.gif"
+      ],
+      "6": [
+        "Dragon_0.jpg",
+        "Dragon_1.gif",
+        "Dragon_2.gif"
+      ],
+      "7": [
+        "Dragon_0.jpg",
+        "Dragon_1.gif",
+        "Dragon_2.gif"
+      ],
+      "8": [
+        "Dragon_0.jpg",
+        "Dragon_1.gif",
+        "Dragon_2.gif"
+      ],
+      "9": [
+        "Dragon_0.jpg",
+        "Dragon_1.gif",
+        "Dragon_2.gif"
+      ]
+    },
+    "Drake": {
+      "1": [
+        "Drake_0.jpg",
+        "Drake_1.gif",
+        "Drake_2.gif"
+      ],
+      "2": [
+        "Drake_0.jpg",
+        "Drake_1.gif",
+        "Drake_2.gif"
+      ],
+      "3": [
+        "Drake_0.jpg",
+        "Drake_1.gif",
+        "Drake_2.gif"
+      ],
+      "4": [
+        "Drake_0.jpg",
+        "Drake_1.gif",
+        "Drake_2.gif"
+      ],
+      "5": [
+        "Drake_0.jpg",
+        "Drake_1.gif",
+        "Drake_2.gif"
+      ],
+      "6": [
+        "Drake_0.jpg",
+        "Drake_1.gif",
+        "Drake_2.gif"
+      ],
+      "7": [
+        "Drake_0.jpg",
+        "Drake_1.gif",
+        "Drake_2.gif"
+      ],
+      "8": [
+        "Drake_0.jpg",
+        "Drake_1.gif",
+        "Drake_2.gif"
+      ],
+      "9": [
+        "Drake_0.jpg",
+        "Drake_1.gif",
+        "Drake_2.gif"
+      ]
+    },
+    "Drow": {
+      "1": [
+        "Drow_0.jpg",
+        "Drow_1.gif",
+        "Drow_2.gif"
+      ],
+      "2": [
+        "Drow_0.jpg",
+        "Drow_1.gif",
+        "Drow_2.gif"
+      ],
+      "3": [
+        "Drow_0.jpg",
+        "Drow_1.gif",
+        "Drow_2.gif"
+      ],
+      "4": [
+        "Drow_0.jpg",
+        "Drow_1.gif",
+        "Drow_2.gif"
+      ]
+    },
+    "Elder Dragon 6": {
+      "1": [
+        "Elder Dragon 6_0.jpg",
+        "Elder Dragon 6_1.gif",
+        "Elder Dragon 6_2.gif"
+      ]
+    },
+    "Elk": {
+      "1": [
+        "Elk_0.jpg",
+        "Elk_1.gif",
+        "Elk_2.gif"
+      ],
+      "2": [
+        "Elk_0.jpg",
+        "Elk_1.gif",
+        "Elk_2.gif"
+      ],
+      "3": [
+        "Elk_0.jpg",
+        "Elk_1.gif",
+        "Elk_2.gif"
+      ],
+      "4": [
+        "Elk_0.jpg",
+        "Elk_1.gif",
+        "Elk_2.gif"
+      ],
+      "5": [
+        "Elk_0.jpg",
+        "Elk_1.gif",
+        "Elk_2.gif"
+      ],
+      "6": [
+        "Elk_0.jpg",
+        "Elk_1.gif",
+        "Elk_2.gif"
+      ],
+      "7": [
+        "Elk_0.jpg",
+        "Elk_1.gif",
+        "Elk_2.gif"
+      ],
+      "8": [
+        "Elk_0.jpg",
+        "Elk_1.gif",
+        "Elk_2.gif"
+      ]
+    },
+    "Ettercap": {
+      "1": [
+        "Ettercap_0.jpeg",
+        "Ettercap_1.gif",
+        "Ettercap_2.gif"
+      ],
+      "2": [
+        "Ettercap_0.jpeg",
+        "Ettercap_1.gif",
+        "Ettercap_2.gif"
+      ],
+      "3": [
+        "Ettercap_0.jpeg",
+        "Ettercap_1.gif",
+        "Ettercap_2.gif"
+      ],
+      "4": [
+        "Ettercap_0.jpeg",
+        "Ettercap_1.gif",
+        "Ettercap_2.gif"
+      ]
+    },
+    "Ghast": {
+      "1": [
+        "Ghast_0.jpg",
+        "Ghast_1.gif",
+        "Ghast_2.gif"
+      ],
+      "10": [
+        "Ghast_0.jpg",
+        "Ghast_1.gif",
+        "Ghast_2.gif"
+      ],
+      "11": [
+        "Ghast_0.jpg",
+        "Ghast_1.gif",
+        "Ghast_2.gif"
+      ],
+      "2": [
+        "Ghast_0.jpg",
+        "Ghast_1.gif",
+        "Ghast_2.gif"
+      ],
+      "3": [
+        "Ghast_0.jpg",
+        "Ghast_1.gif",
+        "Ghast_2.gif"
+      ],
+      "4": [
+        "Ghast_0.jpg",
+        "Ghast_1.gif",
+        "Ghast_2.gif"
+      ],
+      "5": [
+        "Ghast_0.jpg",
+        "Ghast_1.gif",
+        "Ghast_2.gif"
+      ],
+      "6": [
+        "Ghast_0.jpg",
+        "Ghast_1.gif",
+        "Ghast_2.gif"
+      ],
+      "7": [
+        "Ghast_0.jpg",
+        "Ghast_1.gif",
+        "Ghast_2.gif"
+      ],
+      "8": [
+        "Ghast_0.jpg",
+        "Ghast_1.gif",
+        "Ghast_2.gif"
+      ],
+      "9": [
+        "Ghast_0.jpg",
+        "Ghast_1.gif",
+        "Ghast_2.gif"
+      ]
+    },
+    "Ghoul": {
+      "1": [
+        "Ghoul_0.jpg",
+        "Ghoul_1.gif",
+        "Ghoul_2.gif"
+      ],
+      "2": [
+        "Ghoul_0.jpg",
+        "Ghoul_1.gif",
+        "Ghoul_2.gif"
+      ],
+      "3": [
+        "Ghoul_0.jpg",
+        "Ghoul_1.gif",
+        "Ghoul_2.gif"
+      ],
+      "4": [
+        "Ghoul_0.jpg",
+        "Ghoul_1.gif",
+        "Ghoul_2.gif"
+      ],
+      "5": [
+        "Ghoul_0.jpg",
+        "Ghoul_1.gif",
+        "Ghoul_2.gif"
+      ],
+      "6": [
+        "Ghoul_0.jpg",
+        "Ghoul_1.gif",
+        "Ghoul_2.gif"
+      ],
+      "7": [
+        "Ghoul_0.jpg",
+        "Ghoul_1.gif",
+        "Ghoul_2.gif"
+      ],
+      "8": [
+        "Ghoul_0.jpg",
+        "Ghoul_1.gif",
+        "Ghoul_2.gif"
+      ]
+    },
+    "Giant": {
+      "1": [
+        "Giant_0.jpg",
+        "Giant_1.gif",
+        "Giant_2.gif"
+      ],
+      "10": [
+        "Giant_0.jpg",
+        "Giant_1.gif",
+        "Giant_2.gif"
+      ],
+      "11": [
+        "Giant_0.jpg",
+        "Giant_1.gif",
+        "Giant_2.gif"
+      ],
+      "12": [
+        "Giant_0.jpg",
+        "Giant_1.gif",
+        "Giant_2.gif"
+      ],
+      "13": [
+        "Giant_0.jpg",
+        "Giant_1.gif",
+        "Giant_2.gif"
+      ],
+      "14": [
+        "Giant_0.jpg",
+        "Giant_1.gif",
+        "Giant_2.gif"
+      ],
+      "2": [
+        "Giant_0.jpg",
+        "Giant_1.gif",
+        "Giant_2.gif"
+      ],
+      "3": [
+        "Giant_0.jpg",
+        "Giant_1.gif",
+        "Giant_2.gif"
+      ],
+      "4": [
+        "Giant_0.jpg",
+        "Giant_1.gif",
+        "Giant_2.gif"
+      ],
+      "5": [
+        "Giant_0.jpg",
+        "Giant_1.gif",
+        "Giant_2.gif"
+      ],
+      "6": [
+        "Giant_0.jpg",
+        "Giant_1.gif",
+        "Giant_2.gif"
+      ],
+      "7": [
+        "Giant_0.jpg",
+        "Giant_1.gif",
+        "Giant_2.gif"
+      ],
+      "8": [
+        "Giant_0.jpg",
+        "Giant_1.gif",
+        "Giant_2.gif"
+      ],
+      "9": [
+        "Giant_0.jpg",
+        "Giant_1.gif",
+        "Giant_2.gif"
+      ]
+    },
+    "Gnoll": {
+      "1": [
+        "Gnoll_0.jpg",
+        "Gnoll_1.gif",
+        "Gnoll_2.gif"
+      ],
+      "2": [
+        "Gnoll_0.jpg",
+        "Gnoll_1.gif",
+        "Gnoll_2.gif"
+      ],
+      "3": [
+        "Gnoll_0.jpg",
+        "Gnoll_1.gif",
+        "Gnoll_2.gif"
+      ],
+      "4": [
+        "Gnoll_0.jpg",
+        "Gnoll_1.gif",
+        "Gnoll_2.gif"
+      ]
+    },
+    "Goblin": {
+      "1": [
+        "Goblin_0.png",
+        "Goblin_1.gif",
+        "Goblin_2.gif"
+      ]
+    },
+    "Griffon": {
+      "1": [
+        "Griffon_0.jpg",
+        "Griffon_1.gif",
+        "Griffon_2.gif"
+      ],
+      "10": [
+        "Griffon_0.jpg",
+        "Griffon_1.gif",
+        "Griffon_2.gif"
+      ],
+      "2": [
+        "Griffon_0.jpg",
+        "Griffon_1.gif",
+        "Griffon_2.gif"
+      ],
+      "3": [
+        "Griffon_0.jpg",
+        "Griffon_1.gif",
+        "Griffon_2.gif"
+      ],
+      "4": [
+        "Griffon_0.jpg",
+        "Griffon_1.gif",
+        "Griffon_2.gif"
+      ],
+      "5": [
+        "Griffon_0.jpg",
+        "Griffon_1.gif",
+        "Griffon_2.gif"
+      ],
+      "6": [
+        "Griffon_0.jpg",
+        "Griffon_1.gif",
+        "Griffon_2.gif"
+      ],
+      "7": [
+        "Griffon_0.jpg",
+        "Griffon_1.gif",
+        "Griffon_2.gif"
+      ],
+      "8": [
+        "Griffon_0.jpg",
+        "Griffon_1.gif",
+        "Griffon_2.gif"
+      ],
+      "9": [
+        "Griffon_0.jpg",
+        "Griffon_1.gif",
+        "Griffon_2.gif"
+      ]
+    },
+    "Grimlock": {
+      "1": [
+        "Grimlock_0.jpg",
+        "Grimlock_1.gif",
+        "Grimlock_2.gif"
+      ],
+      "2": [
+        "Grimlock_0.jpg",
+        "Grimlock_1.gif",
+        "Grimlock_2.gif"
+      ],
+      "3": [
+        "Grimlock_0.jpg",
+        "Grimlock_1.gif",
+        "Grimlock_2.gif"
+      ]
+    },
+    "hag": {
+      "1": [
+        "hag_0.jpg",
+        "hag_1.gif",
+        "hag_2.gif"
+      ],
+      "2": [
+        "hag_0.jpg",
+        "hag_1.gif",
+        "hag_2.gif"
+      ],
+      "3": [
+        "hag_0.jpg",
+        "hag_1.gif",
+        "hag_2.gif"
+      ],
+      "4": [
+        "hag_0.jpg",
+        "hag_1.gif",
+        "hag_2.gif"
+      ],
+      "5": [
+        "hag_0.jpg",
+        "hag_1.gif",
+        "hag_2.gif"
+      ],
+      "6": [
+        "hag_0.jpg",
+        "hag_1.gif",
+        "hag_2.gif"
+      ],
+      "7": [
+        "hag_0.jpg",
+        "hag_1.gif",
+        "hag_2.gif"
+      ],
+      "8": [
+        "hag_0.jpg",
+        "hag_1.gif",
+        "hag_2.gif"
+      ]
+    },
+    "Harpy": {
+      "1": [
+        "Harpy_0.jpg",
+        "Harpy_1.gif",
+        "Harpy_2.gif"
+      ],
+      "2": [
+        "Harpy_0.jpg",
+        "Harpy_1.gif",
+        "Harpy_2.gif"
+      ],
+      "3": [
+        "Harpy_0.jpg",
+        "Harpy_1.gif",
+        "Harpy_2.gif"
+      ],
+      "4": [
+        "Harpy_0.jpg",
+        "Harpy_1.gif",
+        "Harpy_2.gif"
+      ]
+    },
+    "Hobgoblin": {
+      "1": [
+        "Hobgoblin_0.jpeg",
+        "Hobgoblin_1.gif",
+        "Hobgoblin_2.gif"
+      ],
+      "2": [
+        "Hobgoblin_0.jpeg",
+        "Hobgoblin_1.gif",
+        "Hobgoblin_2.gif"
+      ],
+      "3": [
+        "Hobgoblin_0.jpeg",
+        "Hobgoblin_1.gif",
+        "Hobgoblin_2.gif"
+      ],
+      "4": [
+        "Hobgoblin_0.jpeg",
+        "Hobgoblin_1.gif",
+        "Hobgoblin_2.gif"
+      ]
+    },
+    "Hyena": {
+      "1": [
+        "Hyena_0.jpg",
+        "Hyena_1.gif",
+        "Hyena_2.gif"
+      ],
+      "2": [
+        "Hyena_0.jpg",
+        "Hyena_1.gif",
+        "Hyena_2.gif"
+      ],
+      "3": [
+        "Hyena_0.jpg",
+        "Hyena_1.gif",
+        "Hyena_2.gif"
+      ],
+      "4": [
+        "Hyena_0.jpg",
+        "Hyena_1.gif",
+        "Hyena_2.gif"
+      ],
+      "5": [
+        "Hyena_0.jpg",
+        "Hyena_1.gif",
+        "Hyena_2.gif"
+      ]
+    },
+    "Imp": {
+      "1": [
+        "Imp_0.jpg",
+        "Imp_1.gif",
+        "Imp_2.gif"
+      ],
+      "2": [
+        "Imp_0.jpg",
+        "Imp_1.gif",
+        "Imp_2.gif"
+      ],
+      "3": [
+        "Imp_0.jpg",
+        "Imp_1.gif",
+        "Imp_2.gif"
+      ],
+      "4": [
+        "Imp_0.jpg",
+        "Imp_1.gif",
+        "Imp_2.gif"
+      ],
+      "5": [
+        "Imp_0.jpg",
+        "Imp_1.gif",
+        "Imp_2.gif"
+      ],
+      "6": [
+        "Imp_0.jpg",
+        "Imp_1.gif",
+        "Imp_2.gif"
+      ],
+      "7": [
+        "Imp_0.jpg",
+        "Imp_1.gif",
+        "Imp_2.gif"
+      ],
+      "8": [
+        "Imp_0.jpg",
+        "Imp_1.gif",
+        "Imp_2.gif"
+      ],
+      "9": [
+        "Imp_0.jpg",
+        "Imp_1.gif",
+        "Imp_2.gif"
+      ]
+    },
+    "Kraken": {
+      "1": [
+        "Kraken_0.jpg",
+        "Kraken_1.gif",
+        "Kraken_2.gif"
+      ],
+      "2": [
+        "Kraken_0.jpg",
+        "Kraken_1.gif",
+        "Kraken_2.gif"
+      ],
+      "3": [
+        "Kraken_0.jpg",
+        "Kraken_1.gif",
+        "Kraken_2.gif"
+      ],
+      "4": [
+        "Kraken_0.jpg",
+        "Kraken_1.gif",
+        "Kraken_2.gif"
+      ],
+      "5": [
+        "Kraken_0.jpg",
+        "Kraken_1.gif",
+        "Kraken_2.gif"
+      ]
+    },
+    "Leader": {
+      "1": [
+        "Leader_0.jpg",
+        "Leader_1.gif",
+        "Leader_2.gif"
+      ],
+      "2": [
+        "Leader_0.jpg",
+        "Leader_1.gif",
+        "Leader_2.gif"
+      ],
+      "3": [
+        "Leader_0.jpg",
+        "Leader_1.gif",
+        "Leader_2.gif"
+      ],
+      "4": [
+        "Leader_0.jpg",
+        "Leader_1.gif",
+        "Leader_2.gif"
+      ]
+    },
+    "Leviathan": {
+      "1": [
+        "Leviathan_0.jpg",
+        "Leviathan_1.gif",
+        "Leviathan_2.gif"
+      ],
+      "2": [
+        "Leviathan_0.jpg",
+        "Leviathan_1.gif",
+        "Leviathan_2.gif"
+      ],
+      "3": [
+        "Leviathan_0.jpg",
+        "Leviathan_1.gif",
+        "Leviathan_2.gif"
+      ],
+      "4": [
+        "Leviathan_0.jpg",
+        "Leviathan_1.gif",
+        "Leviathan_2.gif"
+      ]
+    },
+    "Lich": {
+      "1": [
+        "Lich_0.jpg",
+        "Lich_1.gif",
+        "Lich_2.gif"
+      ],
+      "2": [
+        "Lich_0.jpg",
+        "Lich_1.gif",
+        "Lich_2.gif"
+      ],
+      "3": [
+        "Lich_0.jpg",
+        "Lich_1.gif",
+        "Lich_2.gif"
+      ],
+      "4": [
+        "Lich_0.jpg",
+        "Lich_1.gif",
+        "Lich_2.gif"
+      ],
+      "5": [
+        "Lich_0.jpg",
+        "Lich_1.gif",
+        "Lich_2.gif"
+      ],
+      "6": [
+        "Lich_0.jpg",
+        "Lich_1.gif",
+        "Lich_2.gif"
+      ]
+    },
+    "Minotaur": {
+      "1": [
+        "Minotaur_0.jpg",
+        "Minotaur_1.gif",
+        "Minotaur_2.gif"
+      ],
+      "2": [
+        "Minotaur_0.jpg",
+        "Minotaur_1.gif",
+        "Minotaur_2.gif"
+      ],
+      "3": [
+        "Minotaur_0.jpg",
+        "Minotaur_1.gif",
+        "Minotaur_2.gif"
+      ],
+      "4": [
+        "Minotaur_0.jpg",
+        "Minotaur_1.gif",
+        "Minotaur_2.gif"
+      ],
+      "5": [
+        "Minotaur_0.jpg",
+        "Minotaur_1.gif",
+        "Minotaur_2.gif"
+      ],
+      "6": [
+        "Minotaur_0.jpg",
+        "Minotaur_1.gif",
+        "Minotaur_2.gif"
+      ],
+      "7": [
+        "Minotaur_0.jpg",
+        "Minotaur_1.gif",
+        "Minotaur_2.gif"
+      ],
+      "8": [
+        "Minotaur_0.jpg",
+        "Minotaur_1.gif",
+        "Minotaur_2.gif"
+      ],
+      "9": [
+        "Minotaur_0.jpg",
+        "Minotaur_1.gif",
+        "Minotaur_2.gif"
+      ]
+    },
+    "Mummy": {
+      "1": [
+        "Mummy_0.jpg",
+        "Mummy_1.gif",
+        "Mummy_2.gif"
+      ],
+      "2": [
+        "Mummy_0.jpg",
+        "Mummy_1.gif",
+        "Mummy_2.gif"
+      ],
+      "3": [
+        "Mummy_0.jpg",
+        "Mummy_1.gif",
+        "Mummy_2.gif"
+      ],
+      "4": [
+        "Mummy_0.jpg",
+        "Mummy_1.gif",
+        "Mummy_2.gif"
+      ],
+      "5": [
+        "Mummy_0.jpg",
+        "Mummy_1.gif",
+        "Mummy_2.gif"
+      ],
+      "6": [
+        "Mummy_0.jpg",
+        "Mummy_1.gif",
+        "Mummy_2.gif"
+      ],
+      "7": [
+        "Mummy_0.jpg",
+        "Mummy_1.gif",
+        "Mummy_2.gif"
+      ],
+      "8": [
+        "Mummy_0.jpg",
+        "Mummy_1.gif",
+        "Mummy_2.gif"
+      ],
+      "9": [
+        "Mummy_0.jpg",
+        "Mummy_1.gif",
+        "Mummy_2.gif"
+      ]
+    },
+    "Ogre": {
+      "1": [
+        "Ogre_0.jpg",
+        "Ogre_1.gif",
+        "Ogre_2.gif"
+      ],
+      "2": [
+        "Ogre_0.jpg",
+        "Ogre_1.gif",
+        "Ogre_2.gif"
+      ],
+      "3": [
+        "Ogre_0.jpg",
+        "Ogre_1.gif",
+        "Ogre_2.gif"
+      ],
+      "4": [
+        "Ogre_0.jpg",
+        "Ogre_1.gif",
+        "Ogre_2.gif"
+      ],
+      "5": [
+        "Ogre_0.jpg",
+        "Ogre_1.gif",
+        "Ogre_2.gif"
+      ],
+      "6": [
+        "Ogre_0.jpg",
+        "Ogre_1.gif",
+        "Ogre_2.gif"
+      ],
+      "7": [
+        "Ogre_0.jpg",
+        "Ogre_1.gif",
+        "Ogre_2.gif"
+      ],
+      "8": [
+        "Ogre_0.jpg",
+        "Ogre_1.gif",
+        "Ogre_2.gif"
+      ]
+    },
+    "Orc": {
+      "1": [
+        "Orc_0.jpg",
+        "Orc_1.gif",
+        "Orc_2.gif"
+      ],
+      "2": [
+        "Orc_0.jpg",
+        "Orc_1.gif",
+        "Orc_2.gif"
+      ],
+      "3": [
+        "Orc_0.jpg",
+        "Orc_1.gif",
+        "Orc_2.gif"
+      ],
+      "4": [
+        "Orc_0.jpg",
+        "Orc_1.gif",
+        "Orc_2.gif"
+      ],
+      "5": [
+        "Orc_0.jpg",
+        "Orc_1.gif",
+        "Orc_2.gif"
+      ]
+    },
+    "Owl": {
+      "1": [
+        "Owl_0.jpg",
+        "Owl_1.gif",
+        "Owl_2.gif"
+      ],
+      "2": [
+        "Owl_0.jpg",
+        "Owl_1.gif",
+        "Owl_2.gif"
+      ],
+      "3": [
+        "Owl_0.jpg",
+        "Owl_1.gif",
+        "Owl_2.gif"
+      ],
+      "4": [
+        "Owl_0.jpg",
+        "Owl_1.gif",
+        "Owl_2.gif"
+      ],
+      "5": [
+        "Owl_0.jpg",
+        "Owl_1.gif",
+        "Owl_2.gif"
+      ],
+      "6": [
+        "owl_0.jpg",
+        "Owl_1.gif",
+        "Owl_2.gif"
+      ],
+      "7": [
+        "owl_0.jpg",
+        "Owl_1.gif",
+        "Owl_2.gif"
+      ]
+    },
+    "OwlBear": {
+      "1": [
+        "OwlBear_0.jpg",
+        "OwlBear_1.gif",
+        "OwlBear_2.gif"
+      ],
+      "10": [
+        "OwlBear_0.jpg",
+        "OwlBear_1.gif",
+        "OwlBear_2.gif"
+      ],
+      "11": [
+        "OwlBear_0.jpg",
+        "OwlBear_1.gif",
+        "OwlBear_2.gif"
+      ],
+      "2": [
+        "Owlbear_0.jpg",
+        "OwlBear_1.gif",
+        "OwlBear_2.gif"
+      ],
+      "3": [
+        "Owlbear_0.jpg",
+        "OwlBear_1.gif",
+        "OwlBear_2.gif"
+      ],
+      "4": [
+        "Owlbear_0.jpg",
+        "OwlBear_1.gif",
+        "OwlBear_2.gif"
+      ],
+      "5": [
+        "OwlBear_0.jpg",
+        "OwlBear_1.gif",
+        "OwlBear_2.gif"
+      ],
+      "6": [
+        "OwlBear_0.jpg",
+        "OwlBear_1.gif",
+        "OwlBear_2.gif"
+      ],
+      "7": [
+        "OwlBear_0.jpg",
+        "OwlBear_1.gif",
+        "OwlBear_2.gif"
+      ],
+      "8": [
+        "OwlBear_0.jpg",
+        "OwlBear_1.gif",
+        "OwlBear_2.gif"
+      ],
+      "9": [
+        "OwlBear_0.jpg",
+        "OwlBear_1.gif",
+        "OwlBear_2.gif"
+      ]
+    },
+    "Panther": {
+      "1": [
+        "Panther_0.jpg",
+        "Panther_1.gif",
+        "Panther_2.gif"
+      ],
+      "2": [
+        "Panther_0.jpg",
+        "Panther_1.gif",
+        "Panther_2.gif"
+      ],
+      "3": [
+        "Panther_0.jpg",
+        "Panther_1.gif",
+        "Panther_2.gif"
+      ],
+      "4": [
+        "Panther_0.jpg",
+        "Panther_1.gif",
+        "Panther_2.gif"
+      ]
+    },
+    "Phoenix": {
+      "1": [
+        "Phoenix_0.jpg",
+        "Phoenix_1.gif",
+        "Phoenix_2.gif"
+      ],
+      "2": [
+        "Phoenix_0.jpg",
+        "Phoenix_1.gif",
+        "Phoenix_2.gif"
+      ],
+      "3": [
+        "Phoenix_0.jpg",
+        "Phoenix_1.gif",
+        "Phoenix_2.gif"
+      ],
+      "4": [
+        "Phoenix_0.jpg",
+        "Phoenix_0.png",
+        "Phoenix_1.gif",
+        "Phoenix_2.gif"
+      ],
+      "5": [
+        "Phoenix_0.jpg",
+        "Phoenix_0.png",
+        "Phoenix_1.gif",
+        "Phoenix_2.gif"
+      ],
+      "6": [
+        "Phoenix_0.jpg",
+        "Phoenix_1.gif",
+        "Phoenix_2.gif"
+      ],
+      "7": [
+        "Phoenix_0.jpg",
+        "Phoenix_1.gif",
+        "Phoenix_2.gif"
+      ]
+    },
+    "Satyr": {
+      "1": [
+        "Satyr_0.jpg",
+        "Satyr_1.gif",
+        "Satyr_2.gif"
+      ],
+      "2": [
+        "Satyr_0.jpg",
+        "Satyr_1.gif",
+        "Satyr_2.gif"
+      ],
+      "3": [
+        "Satyr_0.jpg",
+        "Satyr_1.gif",
+        "Satyr_2.gif"
+      ],
+      "4": [
+        "Satyr_0.jpg",
+        "Satyr_1.gif",
+        "Satyr_2.gif"
+      ]
+    },
+    "Shaman": {
+      "1": [
+        "Shaman_0.jpg",
+        "Shaman_1.gif",
+        "Shaman_2.gif"
+      ],
+      "2": [
+        "Shaman_0.jpg",
+        "Shaman_1.gif",
+        "Shaman_2.gif"
+      ],
+      "3": [
+        "Shaman_0.jpg",
+        "Shaman_1.gif",
+        "Shaman_2.gif"
+      ],
+      "4": [
+        "Shaman_0.jpg",
+        "Shaman_1.gif",
+        "Shaman_2.gif"
+      ]
+    },
+    "Skeleton": {
+      "1": [
+        "Skeleton_0.jpg",
+        "Skeleton_1.gif",
+        "Skeleton_2.gif"
+      ],
+      "2": [
+        "Skeleton_0.jpg",
+        "Skeleton_1.gif",
+        "Skeleton_2.gif"
+      ],
+      "3": [
+        "Skeleton_0.jpg",
+        "Skeleton_1.gif",
+        "Skeleton_2.gif"
+      ],
+      "4": [
+        "Skeleton_0.jpg",
+        "Skeleton_1.gif",
+        "Skeleton_2.gif"
+      ],
+      "5": [
+        "Skeleton_0.jpg",
+        "Skeleton_1.gif",
+        "Skeleton_2.gif"
+      ],
+      "6": [
+        "Skeleton_0.jpg",
+        "Skeleton_1.gif",
+        "Skeleton_2.gif"
+      ],
+      "7": [
+        "Skeleton_0.jpg",
+        "Skeleton_1.gif",
+        "Skeleton_2.gif"
+      ]
+    },
+    "Spider": {
+      "1": [
+        "Spider_0.jpg",
+        "Spider_1.gif",
+        "Spider_2.gif"
+      ],
+      "2": [
+        "Spider_0.jpg",
+        "Spider_1.gif",
+        "Spider_2.gif"
+      ],
+      "3": [
+        "Spider_0.jpg",
+        "Spider_1.gif",
+        "Spider_2.gif"
+      ],
+      "4": [
+        "Spider_0.jpg",
+        "Spider_1.gif",
+        "Spider_2.gif"
+      ],
+      "5": [
+        "Spider_0.jpg",
+        "Spider_1.gif",
+        "Spider_2.gif"
+      ],
+      "6": [
+        "Spider_0.jpg",
+        "Spider_1.gif",
+        "Spider_2.gif"
+      ],
+      "7": [
+        "Spider_0.jpg",
+        "Spider_1.gif",
+        "Spider_2.gif"
+      ]
+    },
+    "Tarrasque": {
+      "1": [
+        "Tarrasque_0.png",
+        "Tarrasque_1.gif",
+        "Tarrasque_2.gif"
+      ]
+    },
+    "Titan": {
+      "1": [
+        "Titan_0.jpg",
+        "Titan_1.gif",
+        "Titan_2.gif"
+      ]
+    },
+    "Tortle": {
+      "1": [
+        "Tortle_0.jpg",
+        "Tortle_1.gif",
+        "Tortle_2.gif"
+      ],
+      "2": [
+        "Tortle_0.jpg",
+        "Tortle_1.gif",
+        "Tortle_2.gif"
+      ],
+      "3": [
+        "Tortle_0.jpg",
+        "Tortle_1.gif",
+        "Tortle_2.gif"
+      ],
+      "4": [
+        "Tortle_0.jpg",
+        "Tortle_1.gif",
+        "Tortle_2.gif"
+      ]
+    },
+    "Trogtlodyte": {
+      "1": [
+        "Trogtlodyte_0.jpg",
+        "Trogtlodyte_1.gif",
+        "Trogtlodyte_2.gif"
+      ],
+      "2": [
+        "Trogtlodyte_0.jpg",
+        "Trogtlodyte_1.gif",
+        "Trogtlodyte_2.gif"
+      ],
+      "3": [
+        "Trogtlodyte_0.jpg",
+        "Trogtlodyte_1.gif",
+        "Trogtlodyte_2.gif"
+      ],
+      "4": [
+        "Trogtlodyte_0.jpg",
+        "Trogtlodyte_1.gif",
+        "Trogtlodyte_2.gif"
+      ]
+    },
+    "Wolf": {
+      "1": [
+        "Wolf_0.jpg",
+        "Wolf_1.gif",
+        "Wolf_2.gif"
+      ],
+      "2": [
+        "Wolf_0.jpg",
+        "Wolf_1.gif",
+        "Wolf_2.gif"
+      ],
+      "3": [
+        "Wolf_0.jpg",
+        "Wolf_1.gif",
+        "Wolf_2.gif"
+      ],
+      "4": [
+        "Wolf_0.jpg",
+        "Wolf_1.gif",
+        "Wolf_2.gif"
+      ],
+      "5": [
+        "Wolf_0.jpg",
+        "Wolf_1.gif",
+        "Wolf_2.gif"
+      ],
+      "6": [
+        "Wolf_0.jpg",
+        "Wolf_1.gif",
+        "Wolf_2.gif"
+      ],
+      "7": [
+        "Wolf_0.jpg",
+        "Wolf_1.gif",
+        "Wolf_2.gif"
+      ]
+    }
+  },
+  "Pets": {
+    "Cat": {
+      "1": [
+        "Cat_0.jpg"
+      ],
+      "2": [
+        "Cat_0.jpg"
+      ],
+      "3": [
+        "Cat_0.jpg"
+      ],
+      "4": [
+        "Cat_0.jpg"
+      ],
+      "5": [
+        "Cat_0.jpg"
+      ]
+    },
+    "Firefly": {
+      "1": [
+        "Firefly_0.jpg"
+      ],
+      "2": [
+        "Firefly_0.jpg"
+      ],
+      "3": [
+        "Firefly_0.jpg"
+      ],
+      "4": [
+        "Firefly_0.jpg"
+      ]
+    },
+    "Golem": {
+      "1": [
+        "Golem_0.jpg"
+      ],
+      "2": [
+        "Golem_0.jpg"
+      ],
+      "3": [
+        "Golem_0.jpg"
+      ],
+      "4": [
+        "Golem_0.jpg"
+      ],
+      "5": [
+        "Golem_0.jpg"
+      ]
+    },
+    "hatchling": {
+      "1": [
+        "hatchling_0.jpg"
+      ],
+      "2": [
+        "hatchling_0.jpg"
+      ],
+      "3": [
+        "hatchling_0.jpg"
+      ],
+      "4": [
+        "hatchling_0.jpg"
+      ],
+      "5": [
+        "hatchling_0.jpg"
+      ]
+    },
+    "kirin": {
+      "1": [
+        "kirin_0.jpg"
+      ],
+      "2": [
+        "kirin_0.jpg"
+      ],
+      "3": [
+        "kirin_0.jpg"
+      ]
+    },
+    "lizard": {
+      "1": [
+        "lizard_0.jpg"
+      ],
+      "2": [
+        "lizard_0.jpg"
+      ],
+      "3": [
+        "lizard_0.jpg"
+      ],
+      "4": [
+        "lizard_0.jpg"
+      ]
+    },
+    "Pet": {
+      "1": [
+        "Pet_0.jpg"
+      ],
+      "2": [
+        "Pet_0.jpg"
+      ],
+      "3": [
+        "Pet_0.jpg"
+      ],
+      "4": [
+        "Pet_0.jpg"
+      ],
+      "5": [
+        "Pet_0.jpg"
+      ]
+    },
+    "Rabbit": {
+      "1": [
+        "Rabbit_0.jpg"
+      ],
+      "2": [
+        "Rabbit_0.jpg"
+      ],
+      "3": [
+        "Rabbit_0.jpg"
+      ],
+      "4": [
+        "Rabbit_0.jpg"
+      ],
+      "5": [
+        "Rabbit_0.jpg"
+      ]
+    },
+    "Spirit": {
+      "1": [
+        "Spirit_0.jpg"
+      ],
+      "2": [
+        "Spirit_0.jpg"
+      ],
+      "3": [
+        "Spirit_0.jpg"
+      ],
+      "4": [
+        "Spirit_0.jpg"
+      ],
+      "5": [
+        "Spirit_0.jpg"
+      ]
+    },
+    "Tortoise": {
+      "1": [
+        "Tortoise_0.jpg"
+      ],
+      "2": [
+        "Tortoise_0.jpg"
+      ],
+      "3": [
+        "Tortoise_0.jpg"
+      ],
+      "4": [
+        "Tortoise_0.jpg"
+      ],
+      "5": [
+        "Tortoise_0.jpg"
+      ]
+    },
+    "Wolf": {
+      "1": [
+        "Wolf_0.jpg"
+      ],
+      "2": [
+        "Wolf_0.jpg"
+      ],
+      "3": [
+        "Wolf_0.jpg"
+      ],
+      "4": [
+        "Wolf_0.jpg"
+      ],
+      "5": [
+        "Wolf_0.jpg"
+      ],
+      "6": [
+        "Wolf_0.jpg"
+      ]
+    }
+  },
+  "Proff": {
+    "Alchemist": {
+      "1": [
+        "Alchemist_0.png"
+      ]
+    },
+    "Blacksmith": {
+      "1": [
+        "Blacksmith_0.png"
+      ]
+    },
+    "Chef": {
+      "1": [
+        "Chef_0.png"
+      ]
+    },
+    "Enchanter": {
+      "1": [
+        "Enchanter_0.png"
+      ]
+    },
+    "Herbalist": {
+      "1": [
+        "Herbalist_0.png"
+      ]
+    },
+    "Hunter": {
+      "1": [
+        "Hunter_0.png"
+      ]
+    },
+    "Miner": {
+      "1": [
+        "Miner_0.png"
+      ]
+    },
+    "Runemaker": {
+      "1": [
+        "Runemaker_0.png"
+      ]
+    }
+  },
+  "World Bosses": {
+    "Colossal Stone Golem": {
+      "1": [
+        "Colossal Stone Golem_0.jpg"
+      ]
+    },
+    "Dark Dragon": {
+      "1": [
+        "Dark Dragon_0.jpg"
+      ]
+    },
+    "Hellfire Demon": {
+      "1": [
+        "Hellfire Demon_0.jpeg"
+      ]
+    },
+    "Ice Queen": {
+      "1": [
+        "Ice Queen_0.jpeg"
+      ]
+    }
+  }
+}
